@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import {BrowserRouter, Route} from "react-router-dom";
+import {BrowserRouter} from "react-router-dom";
+import { Route } from "react-router-dom";
 function Home() {
   return (
     <div>
